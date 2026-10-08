@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "url": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/latest",
-  "notes": "Adds a Get access button on the sign-in screen and fixes option labels being cut short at 100% display scaling."
+  "notes": "Large YTDs save again: texture data is laid out in pages of mixed sizes like the game's own files, so far less space is wasted. New app icon and watermark."
 }
