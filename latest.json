@@ -1,5 +1,7 @@
 {
-  "version": "2.2.2",
+  "version": "2.3.0",
   "url": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/latest",
-  "notes": "Large YTDs save again: texture data is laid out in pages of mixed sizes like the game's own files, so far less space is wasted. New app icon and watermark."
+  "notes": "Replace by drag and drop, and one-click updates.",
+  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.3.0/BLD_TEXTURE_TOOL-2.3.0-x86.msi",
+  "sha256": "E87EDA43FA8CD548151D8AAE41731BDD0FC6A35A03BC875CC2869865E61E4519"
 }
