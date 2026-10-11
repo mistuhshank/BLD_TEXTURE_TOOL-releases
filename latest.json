@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/latest",
-  "notes": "Replace by drag and drop, and one-click updates.",
-  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.3.0/BLD_TEXTURE_TOOL-2.3.0-x86.msi",
-  "sha256": "E87EDA43FA8CD548151D8AAE41731BDD0FC6A35A03BC875CC2869865E61E4519"
+  "notes": "Edit existing container: click the Texture name header to sort the textures by name (A-Z, Z-A, then back to the file's order). Only the list view is sorted; saving keeps the container's own order.",
+  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.4.0/BLD_TEXTURE_TOOL-2.4.0-x86.msi",
+  "sha256": "6a85ea4d1dd26075db94c284256b738713489b12c97442415601e80200738646"
 }
