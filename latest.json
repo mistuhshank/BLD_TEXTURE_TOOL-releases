@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "url": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/latest",
-  "notes": "Edit existing container: click the Texture name header to sort the textures by name (A-Z, Z-A, then back to the file's order). Only the list view is sorted; saving keeps the container's own order.",
-  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.4.0/BLD_TEXTURE_TOOL-2.4.0-x86.msi",
-  "sha256": "6a85ea4d1dd26075db94c284256b738713489b12c97442415601e80200738646"
+  "notes": "Edit existing container: export textures as PNG as well as DDS. Export (button or right-click) lets you pick DDS or PNG, and Export all asks which format to use. PNGs are saved at full size with their transparency.",
+  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.5.0/BLD_TEXTURE_TOOL-2.5.0-x86.msi",
+  "sha256": "892ecb5737a790b27cb57eaf3838eb44cde9fbdb58b7657b5f91559b51b18a95"
 }
