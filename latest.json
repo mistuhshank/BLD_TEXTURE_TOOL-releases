@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "url": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/latest",
-  "notes": "Edit existing container: export textures as PNG as well as DDS. Export (button or right-click) lets you pick DDS or PNG, and Export all asks which format to use. PNGs are saved at full size with their transparency.",
-  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.5.0/BLD_TEXTURE_TOOL-2.5.0-x86.msi",
-  "sha256": "892ecb5737a790b27cb57eaf3838eb44cde9fbdb58b7657b5f91559b51b18a95"
+  "notes": "Optimizer summary labels texture memory and shows the estimated file size; .bak2/.bak3 backups when a .bak already exists.",
+  "installer": "https://github.com/mistuhshank/BLD_TEXTURE_TOOL-releases/releases/download/v2.5.1/BLD_TEXTURE_TOOL-2.5.1-x86.msi",
+  "sha256": "dc6d230a20fefe6a1d671473683c7de482743761e3f7c029ffd7ae7bc7950805"
 }
